@@ -1,13 +1,9 @@
 # Leumac
 
-## About Leumac
-
-Leumac Technology Solution is an IT specialist that provide support and services using cutting edge technology. Our utmost objective is to bring satisfaction on all of our customers. Along with our existence is our customer. Customer is our driving force to continue with the business.
-
 ## Branding
 
 Headline: Technology you can trust
-Summary: Leumac is your partner in defining success the way you want
+Summary: With Leumac, you cand define success the way you want
 
 Brand color: #45e4fa
 Secondary: #0e6f82
@@ -16,7 +12,7 @@ Secondary: #0e6f82
 
 ### About Leumac
 
-Leumac Technology Solutions is a company that provides IT support and services using cutting edge technologies. Our utmost objective is to bring satisfaction to all of our customers. Our customers are our driving force to continue with the business.
+Leumac Technology Solutions is a company that provides IT support and services using cutting edge technologies. Our utmost objective is to bring satisfaction to all of our customers. Our customers are our driving force to continue in our business.
 
 ### The Leumac Way
 
@@ -50,7 +46,7 @@ Bootstrap
 
 ### Customer Testimonials
 
-(Lorem for the meantime)
+(Lorem for the meantime x 3)
 
 ### Call to Action
 
@@ -67,8 +63,8 @@ Social profiles: LinkedIn, Facebook, Twitter, Instagram
 
 ### Footer Links
 
-Services
 About Us
+Services
 Careers
 Contact Us
 
