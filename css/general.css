@@ -24,9 +24,9 @@
 
 --- 02 COLORS 
 
-      Primary: 
-      Secondary:
-      Tints: 
+      Primary: #45e4fa
+      Secondary: #0e6f82
+      Tints: #3ecde1, #37b6c8
       Shades:
       Accents:
       Grey: #888, #767676 lightest gray on white, #777, #555, #333, #6f6f6f, #aaa(lightest grey on #fdf2e9)
@@ -59,4 +59,28 @@ html {
   /* 10px / 16px = 0.625 -> percentage of user's browser font-size*/
   /* font-size: 62.5%;
   overflow-x: hidden; */
+}
+
+/**************************/
+/* REUSABLES
+/**************************/
+
+.btn,
+.btn:link,
+.btn:visited {
+  /* font-size: 2rem; */
+  font-weight: 600;
+  padding: 1rem 3rem;
+  text-decoration: none;
+  display: inline-block;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  background-color: #45e4fa;
+  transition: all 0.3s;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #37b6c8;
 }

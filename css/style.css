@@ -2,7 +2,40 @@
 /* NAVIGATION
 /**************************/
 
+header {
+  position: relative;
+}
+
 .company-logo {
-  width: 3%;
-  height: 3%;
+  width: 38px;
+  height: 44px;
+}
+
+/**************************/
+/* HERO
+/**************************/
+
+.bgvid {
+  object-fit: cover;
+  width: 100vw;
+  height: 91vh;
+}
+
+.hero-text-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 91vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.hero-text-box h1,
+h3 {
+  color: #fff;
+  text-align: center;
 }

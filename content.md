@@ -3,7 +3,7 @@
 ## Branding
 
 Headline: Technology you can trust
-Summary: With Leumac, you cand define success the way you want
+Summary: With Leumac, you can define success the way you want
 
 Brand color: #45e4fa
 Secondary: #0e6f82
